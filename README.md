@@ -48,7 +48,7 @@ La forma canónica observable se puede construir organizando las matrices como:
 ### Forma Canónica Diagonal
 
 Si se conocen los polos de la función de transferencia y todos los polos son diferentes, se puede usar la forma canónica diagonal. Esta forma está estructurada como:
-_**Espacio para subir una imagen aquí**_
+![](https://github.com/andres14guevara/APUNTES-3-corte-semana-13-1/blob/main/imagen%205-2apuntes..png)
 
 ---
 
