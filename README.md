@@ -61,7 +61,7 @@ Para calcular los polos en el espacio de estados, se utiliza el polinomio caract
 \]
 
 Esto se puede resolver utilizando el cálculo del determinante por cofactores:
-_**Espacio para subir una imagen aquí**_
+![](https://github.com/andres14guevara/APUNTES-3-corte-semana-13-1/blob/main/imagen%206-2apuntes..png)
 
 ---
 
