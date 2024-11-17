@@ -28,7 +28,7 @@ Las formas de espacio de estados más utilizadas son:
 ### Forma Canónica Controlable
 
 Dada una función de transferencia:
-_**Espacio para subir una imagen aquí**_
+![](https://github.com/andres14guevara/APUNTES-3-corte-semana-13-1/blob/main/imagen%201-2apuntes..png)
 
 Es posible obtener la forma canónica controlable organizando las matrices de la siguiente manera:
 _**Espacio para subir una imagen aquí**_
