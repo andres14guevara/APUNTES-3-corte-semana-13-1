@@ -31,7 +31,7 @@ Dada una función de transferencia:
 ![](https://github.com/andres14guevara/APUNTES-3-corte-semana-13-1/blob/main/imagen%201-2apuntes..png)
 
 Es posible obtener la forma canónica controlable organizando las matrices de la siguiente manera:
-_**Espacio para subir una imagen aquí**_
+![](https://github.com/andres14guevara/APUNTES-3-corte-semana-13-1/blob/main/imagen%202-2apuntes..png)
 
 ---
 
