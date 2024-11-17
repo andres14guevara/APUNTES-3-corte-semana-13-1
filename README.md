@@ -110,17 +110,8 @@ Para convertir este sistema a su función de transferencia:
 
 ---
 
-## Notas Adicionales
+## CONCLUSIONES
 
 - Las formas canónicas (controlable, observable, diagonal) permiten analizar y diseñar controladores de manera más eficiente.
 - La conversión entre funciones de transferencia y espacio de estados es fundamental para modelar sistemas dinámicos en diversos entornos.
 
-### Espacios Reservados para Imágenes
-
-Reemplaza los espacios etiquetados como _**Espacio para subir una imagen aquí**_ con tus diagramas o explicaciones gráficas.
-
----
-
-### Autor
-
-_Agrega aquí el nombre o equipo que desarrolla este contenido._
