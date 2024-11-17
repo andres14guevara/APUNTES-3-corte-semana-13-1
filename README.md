@@ -38,7 +38,7 @@ Es posible obtener la forma canónica controlable organizando las matrices de la
 ### Forma Canónica Observable
 
 Dada una función de transferencia:
-_**Espacio para subir una imagen aquí**_
+![](https://github.com/andres14guevara/APUNTES-3-corte-semana-13-1/blob/main/imagen%203-2apuntes..png)
 
 La forma canónica observable se puede construir organizando las matrices como:
 _**Espacio para subir una imagen aquí**_
